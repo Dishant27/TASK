@@ -48,9 +48,24 @@ python main.py
 ```
 
 ## 📈 Features
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+
+### Task Management
+- **Task Creation**: Quick creation of tasks with title, description, priority, and due date
+- **Task Categories**: Organize tasks by project, context, or custom categories
+- **Priority Levels**: Set importance levels to prioritize critical tasks
+- **Due Date Tracking**: Calendar integration with deadline notifications
+
+### Workflow Optimization
+- **Kanban Board View**: Visualize tasks in different stages of completion
+- **Task Dependencies**: Link related tasks to establish prerequisites
+- **Time Tracking**: Monitor time spent on individual tasks
+- **Progress Analytics**: Visual reports on productivity and completion rates
+
+### Collaboration Tools
+- **Team Assignment**: Delegate tasks to team members with role-based access
+- **Comment System**: Discuss specific tasks with threaded conversations
+- **File Attachments**: Link relevant documents to tasks
+- **Notification System**: Stay updated on task changes and deadlines
 
 ## 🤝 Contributing
 Contributions are welcome! Please follow these steps:
